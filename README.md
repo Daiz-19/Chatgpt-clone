@@ -1,4 +1,4 @@
-# ChatGPT Clone 💬🧠
+# Mini-GPT 💬🧠
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -29,5 +29,5 @@ This project demonstrates how GPT-style models work under the hood - including t
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/chatgpt-clone.git
-   cd chatgpt-clone
+   git clone https://github.com/your-username/mini-gpt.git
+   cd mini-gpt
