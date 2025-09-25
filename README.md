@@ -1,5 +1,12 @@
 # ChatGPT Clone 💬🧠
 
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![OpenAI](https://img.shields.io/badge/API-OpenAI-412991?logo=openai&logoColor=white)](https://openai.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/chatgpt-clone?style=social)](https://github.com/your-username/chatgpt-clone/stargazers)
+
+
 A simple **ChatGPT-like conversational AI** built with **Python**, **Streamlit**, and the **OpenAI API**.  
 This project demonstrates how to integrate a language model into a chatbot interface, making it a great starting point for learning **NLP**, **APIs**, and **AI applications**.  
 
