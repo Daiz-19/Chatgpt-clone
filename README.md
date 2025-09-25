@@ -4,8 +4,8 @@
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A **mini GPT-like language model** built from scratch in Python using **PyTorch**, following [Andrej Karpathy’s "Build GPT" tutorial](https://youtu.be/kCc8FmEb1nY).  
-This project demonstrates how GPT-style models work under the hood — including tokenization, attention mechanisms, and training on text data.  
+A **mini GPT-like language model** built from scratch in Python using **PyTorch**, following Andrej Karpathy’s "Build GPT" tutorial.  
+This project demonstrates how GPT-style models work under the hood - including tokenization, attention mechanisms, and training on text data.  
 
 ---
 
