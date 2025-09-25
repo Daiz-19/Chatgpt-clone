@@ -1,31 +1,27 @@
 # ChatGPT Clone 💬🧠
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![OpenAI](https://img.shields.io/badge/API-OpenAI-412991?logo=openai&logoColor=white)](https://openai.com)
+[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-
-
-A simple **ChatGPT-like conversational AI** built with **Python**, **Streamlit**, and the **OpenAI API**.  
-This project demonstrates how to integrate a language model into a chatbot interface, making it a great starting point for learning **NLP**, **APIs**, and **AI applications**.  
+A **mini GPT-like language model** built from scratch in Python using **PyTorch**, following [Andrej Karpathy’s "Build GPT" tutorial](https://youtu.be/kCc8FmEb1nY).  
+This project demonstrates how GPT-style models work under the hood — including tokenization, attention mechanisms, and training on text data.  
 
 ---
 
 ## 🚀 Features
-- Conversational chatbot experience (like ChatGPT)  
-- Built with Python and Streamlit for the interface  
-- Uses OpenAI API for natural language responses  
-- Clean and easy-to-understand codebase  
-- Modular design (easy to extend with new features)  
+- Implements a **Transformer-based GPT model** from scratch  
+- Supports training on text datasets  
+- Demonstrates **tokenization, embeddings, and attention**  
+- Can generate text like a simplified ChatGPT  
+- Educational, clean, and well-commented codebase  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Python 3.x**  
-- **Streamlit** (UI)  
-- **OpenAI API** (language model)  
-- **dotenv** (for managing API keys)  
+- **PyTorch** (deep learning)  
+- **NumPy / Matplotlib** (data processing & visualization)  
 
 ---
 
@@ -35,4 +31,3 @@ This project demonstrates how to integrate a language model into a chatbot inter
    ```bash
    git clone https://github.com/your-username/chatgpt-clone.git
    cd chatgpt-clone
-
